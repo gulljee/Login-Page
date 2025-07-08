@@ -1,6 +1,6 @@
 # Login Page
 
-**view at: **https://gulljee.github.io/Login-Page/
+**view at:** https://gulljee.github.io/Login-Page/
 
 **Made using**
 
